@@ -24,3 +24,13 @@
 
 O projeto irá atender empresas que prestam serviço de agendamento de visitas técnicas. 
 Indiretamente atenderá o cliente que poderá solicitar uma visita técnica on-line.
+
+### Colaboradores ###
+
+links para o github de alguns colaboradores do projeto:
+
+[Matheus Rodrigues](https://github.com/Math-Rodrigues)
+
+[Leandrors91](https://github.com/Leandrors91)
+
+[André Ribeiro](https://github.com/andredw13L)

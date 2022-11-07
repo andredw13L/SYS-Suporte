@@ -27,7 +27,7 @@ Indiretamente atenderá o cliente que poderá solicitar uma visita técnica on-l
 
 ### Colaboradores ###
 
-links para o github de alguns colaboradores do projeto:
+Links para o github de alguns colaboradores do projeto:
 
 [Matheus Rodrigues](https://github.com/Math-Rodrigues)
 
